@@ -16,3 +16,6 @@ navigation:
   - name: Instragram
     url: instagram.com/stvrrdn
     type: external
+  - name: Pinterest
+    url: pinterest.com/stevenmreardon
+    type: external
